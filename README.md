@@ -1,4 +1,4 @@
-#A survey app <br>
+# A Survey App
 This is a survey app. It can send emails to collect votes. Once a voter receives an email, he/she can interact from email and apply a vote by pressing y/n. Then this app can handle that feedback with webhook.
 <hr>
 <img width="700" alt="screen shot 2018-10-05 at 3 36 55 am" src="https://user-images.githubusercontent.com/26332421/46505093-c9e60000-c851-11e8-894c-027a22b81f59.png">
